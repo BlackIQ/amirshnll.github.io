@@ -5,7 +5,7 @@ HomeText([
         "profilePic":"assets/img/avatar.jpg",
         "location": "Islamic Republic of Iran",
         "email":"amirsh.nll@gmail.com",
-        "about":"I’m a Master of degree in the Department of Electrical and Computer at the Semnan University doing my research under supervision of Dr. Farzin Yaghmaee. <br/> My main areas of interest are Artificial intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Image Memorability."
+        "about":"I’m a Master of degree in the Department of Electrical and Computer at the Semnan University doing my research under supervision of Dr. Farzin Yaghmaee. <br/> My main areas of interest are Artificial intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Image Memorability. <br /> I like working on open source projects."
     }
 ]);
 Links([
@@ -154,26 +154,26 @@ Education([
     {
         "title":"Semnan University",
         "study":"Artificial Intelligence and Robotics",
-        "grade":"Master's degree",
-        "endDate":2021,
+        "grade":"Master's degree, average : 17.69 of 20.00",
+        "endDate":"2019 - 2021",
     },
     {
         "title":"Shamsipour Technical and Vocational University",
         "study":"Computer Software Technology",
-        "grade":"Bachelor's degree",
-        "endDate":2019,
+        "grade":"Bachelor's degree, average : 18.13 of 20.00",
+        "endDate":"2017 - 2019",
     },
     {
         "title":"Enghelāb-e Eslāmi Technical College",
         "study":"Computer Software Engineering",
-        "grade":"Associate's degree",
-        "endDate":2017,
+        "grade":"Associate's degree, average : 17.06 of 20.00",
+        "endDate":"2014 - 2017",
     },
     {
         "title":"Dr-Hessabi Highschool",
         "study":"Master of Computer Applications (MCA)",
-        "grade":"Diploma",
-        "endDate":2014,
+        "grade":"Diploma, average : 17.63 of 20.00",
+        "endDate":"2011 - 2014",
     }
 ]);
 Project([
