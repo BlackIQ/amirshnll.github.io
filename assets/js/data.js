@@ -117,14 +117,14 @@ Experience([
     {
         "title":"Teaching Assistant (part-time)",
         "at":"<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>",
-        "des": "image processing Course, Department of Electrical and Computer",
+        "des": "Image processing Course, Department of Electrical and Computer",
         "startDate":"February 2021",
         "endDate":"June 2021",
     },
     {
         "title":"Teaching Assistant (part-time)",
         "at":"<a href='https://semnan.ac.ir/' title='Semnan University'>Semnan University</a>",
-        "des": "machine learning Course, Department of Electrical and Computer",
+        "des": "Machine learning Course, Department of Electrical and Computer",
         "startDate":"November 2020",
         "endDate":"January 2021",
     },
@@ -187,7 +187,7 @@ Project([
         "title":"Persian Swear Words Dataset <span class='fal fa-star'></span> 130 star",
         "link":"https://github.com/amirshnll/Persian-Swear-Words",
         "href":"https://github.com/amirshnll/Persian-Swear-Words",
-        "des":"list of Persian Swears, DOI: <strong>10.34740/kaggle/dsv/2094967</strong>"
+        "des":"List of Persian Swears, DOI: <strong>10.34740/kaggle/dsv/2094967</strong>"
     },
     {
         "title":"right to be forgotten (RTBF) Directory <span class='fal fa-star'></span> 70 star",
@@ -201,7 +201,7 @@ Hobby([
         "title":"<span class='fal fa-car'></span> Driving",
     },
     {
-        "title":"<span class='fal fa-cheese'></span> cook"
+        "title":"<span class='fal fa-cheese'></span> Cooking"
     },
     {
         "title":"<span class='fal fa-pen-nib'></span> Blogging",
