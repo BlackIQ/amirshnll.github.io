@@ -36,6 +36,9 @@ Links([
 
 ]);
 Skill([
+    {
+        "title":"<strong>Programming Languages</strong>",
+    },
 	{
 		"title":"PHP",
 	},
@@ -52,6 +55,12 @@ Skill([
         "title":"C / C++",
     },
     {
+        "title":"",
+    },
+    {
+        "title":"<strong>Tools</strong>",
+    },
+    {
         "title":"mysql",
     },
     {
@@ -61,22 +70,10 @@ Skill([
         "title":"Linux",
     },
     {
-        "title":"html / css / js",
-    },
-    {
         "title" : "Wordpress"
     },
-	{
-		"title":"Codeigniter"
-	},
     {
         "title" : "TensorFlow"
-    },
-    {
-        "title" : "Machine Learning"
-    },
-    {
-        "title" : "Image Processing"
     }
 ]);
 Language([
