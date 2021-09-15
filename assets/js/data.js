@@ -37,7 +37,7 @@ Links([
 ]);
 Skill([
     {
-        "title":"<strong>Programming Languages</strong>",
+        "title":"<strong>- Programming Languages</strong>",
     },
 	{
 		"title":"PHP",
@@ -55,10 +55,7 @@ Skill([
         "title":"C / C++",
     },
     {
-        "title":"",
-    },
-    {
-        "title":"<strong>Tools</strong>",
+        "title":"<strong>- Tools</strong>",
     },
     {
         "title":"mysql",
