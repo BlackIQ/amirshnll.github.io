@@ -30,7 +30,7 @@ Links([
         "icon":"fab fa-kaggle",
     },
     {
-        "href":"https://ashokricom",
+        "href":"https://ashokri.com",
         "icon":"fab fa-wordpress",
     }
 
